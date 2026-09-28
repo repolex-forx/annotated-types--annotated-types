@@ -42,7 +42,9 @@
           "githubUrl": "https://github.com/python/typing_extensions",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/0735cd3d4c272b88405b6b04009716b691115210/chunk-001.nq.gz",
+      "dep": "dep/0735cd3d4c272b88405b6b04009716b691115210.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
