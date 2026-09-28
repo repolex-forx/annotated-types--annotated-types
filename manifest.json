@@ -28,6 +28,20 @@
       ],
       "ast": [
         "aggregate/ast/0735cd3d4c272b88405b6b04009716b691115210/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/0735cd3d4c272b88405b6b04009716b691115210.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "4.0.0",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "cf75e420a23c28fd6fd963573a55450db7237ab7",
+          "githubTag": "4.0.0",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
