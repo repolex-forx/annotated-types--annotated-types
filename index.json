@@ -1,0 +1,11 @@
+{
+  "org": "annotated-types",
+  "repo": "annotated-types",
+  "versions": [
+    {
+      "commit": "0735cd3d4c272b88405b6b04009716b691115210",
+      "tag": "v0.7.0",
+      "parsed_at": "2026-09-28T07:49:34.712540+00:00"
+    }
+  ]
+}
